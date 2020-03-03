@@ -1,10 +1,10 @@
 <item>
 <title> HOMEM ARANHA </title>
 <link>
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oSOj_DdkQpXqXtarlV9Kv3FItgMQr_tu/view$$LSNAME 
-
+https://drive.google.com/uc?id=1oSOj_DdkQpXqXtarlV9Kv3FItgMQr_tu&export=download
 </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oSOj_DdkQpXqXtarlV9Kv3FItgMQr_tu/view$$LSNAME 
