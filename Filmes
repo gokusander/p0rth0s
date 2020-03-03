@@ -1,7 +1,11 @@
 <item>
 <title> HOMEM ARANHA </title>
 <link>
-https://r3---sn-bg07dn6l.googlevideo.com/videoplayback?expire=1583277236&ei=VJBeXsvYC4OT1wLmwaaoDg&ip=62.138.8.86&id=o-ANBqdIO0ISvzZSqOQ-ykRsPj__iE1ddupCsf5uXBFOSR&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=3418.534&lmt=1569696830208582&fvip=3&fexp=23812955,23842630&c=WEB&txp=2211222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ADKhkGMwRgIhAMk_LSwB6yC4SpqowXnp6eC0sg_dRwUd7vL3X0cV34lSAiEAoemG27rAU0aK-2znaCT0m3ZoZWMoADIKq-EJ9w1Ains%3D&contentlength=280272686&video_id=6ti-NkmfxEs&title=COMO+CRIAR+SEU+ADDON+PARA+KODI+-+FINAL&rm=sn-4g5ezy7s&req_id=e2063aa03e9a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-cg51pauxax-jfcl7s&cms_redirect=yes&mip=2804:d59:3200:6e00:387a:9d62:35e:df5a&mm=29&mn=sn-bg07dn6l&ms=rdu&mt=1583255562&mv=m&mvi=2&pl=39&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRAIgE4W2lcE-PUmv40XnUxqDmsSQiNMTXgzVpgbbSctwoAICIHCzoriHlm2lFFnZpzNwtkemPgIiBQ2VKJDZXwVOH0xH</link>
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO-Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/1.ts
+
+</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
